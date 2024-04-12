@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135130932997",
+    "project_id": "projectone-4365f",
+    "storage_bucket": "projectone-4365f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135130932997:android:fefae49838b291b848796c",
+        "android_client_info": {
+          "package_name": "com.projectone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDKWjd3ToFPyjCihMirpu6t_31ZZtDHPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
